@@ -12,8 +12,3 @@ This project came about because I wanted to dig deeper into IPL matches, gatheri
 
 ## Acknowledgement 🙌
 Would like to thank [Himanish Ganjoo](https://twitter.com/hganjoo_153) for his support. The ball by ball dataset provided by him [here](https://www.dropbox.com/scl/fi/bab0f36l6j7iunjtjpmpk/t20_bbb.csv?rlkey=n5ves62ma5clehpeqcsn0pfnl&e=1&dl=0) was used in enhancing the quality of this dataset by providing information about certain attributes (extras, dismissals) that Hawkeye surprisingly didn't provide.
-
-## To do 🔨
-
-1. Fix wrong player names? (For example, correct Ganesh to Ruturaj)
-2. Add info about which batter is run out?
